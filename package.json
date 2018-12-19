@@ -1,0 +1,9 @@
+{
+  "name": "calvertest",
+  "version": "0.0.0",
+  "description": "calvertest",
+  "main": "index.js",
+  "author": "John Walker <john@chaosdevs.com>",
+  "license": "MIT",
+  "private": true
+}

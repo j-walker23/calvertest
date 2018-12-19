@@ -1,0 +1,9 @@
+[auth]
+token = 0a93d51c7bc04c1b860f21a5cc2f2c5e3e08fb6d5e07433db79b2659533259d3
+
+[defaults]
+org = socialclime
+project = medrank
+
+[update]
+disable_check = true

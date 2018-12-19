@@ -1,0 +1,5 @@
+**/*.json
+**/+state/**/*.ts
+**/*.styl
+**/*.scss
+**/*.md
